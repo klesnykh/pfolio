@@ -13,6 +13,7 @@ html {
 	display: flex;
 	align-items: center;
 	justify-content: center;
+	background-image: url("../public/images/marble.jpg");
 }
 
 .title-container {
@@ -102,11 +103,11 @@ header h1 {
 }
 
 .slider-image {
-	border: 5px solid #D7CAAA;
+	border: 5px solid #c3c3c3;
 }
 
 .slider-tab {
-	background-color: #D7CAAA;
+	background-color: #c3c3c3;
 	height: 25px;
 }
 
@@ -218,7 +219,7 @@ header h1 {
 
 #preview {
 	width: 500px;
-	background-color: #ebeaf5;
+	background-color: #c3c3c3;
 	padding: 15px;
 	position: relative;
 	margin-bottom: 15%;
@@ -231,7 +232,7 @@ header h1 {
 }
 
 #resume {
-	background: #efe1bd;
+	background: #c3c3c3;
 }
 
 .experience-icon {
@@ -353,7 +354,7 @@ header h1 {
 }
 
 #portfolio {
-	background: #efe1bd;
+	background: #c3c3c3;
 	padding-bottom: 5%;
 }
 
